@@ -12,3 +12,4 @@ Bankruptcy prediction is an area of financial research which explores the abilit
 |[1. Data Wrangling.ipynb](https://github.com/Sperodvd/Capstone-Project-I/blob/main/Final%20documents/1.%20Data%20Wrangling.ipynb) | Part I: Data Wrangling (Code) |
 |[2. Exploratory Data Analysis.ipynb](https://github.com/Sperodvd/Capstone-Project-I/blob/main/Final%20documents/2.%20Exploratory%20Data%20Analysis.ipynb) | Part II: Exploratory Data Analysis (Code) |
 |[3. Pre-processing and Modelling.ipynb](https://github.com/Sperodvd/Capstone-Project-I/blob/main/Final%20documents/3.%20Pre-processing%20and%20Modelling.ipynb) | Part III: Pre-processing and Modelling (Code) |
+|[Data](https://github.com/Sperodvd/Capstone-Project-I/blob/main/data/data.csv) | Raw Data Link |
